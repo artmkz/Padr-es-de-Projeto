@@ -6,7 +6,7 @@ Repositório com implementação de **3 padrões de projeto** em C++, demonstran
 
 Este repositório contém materiais educacionais baseados nos conceitos do **[Refactoring Guru](https://refactoring.guru/design-patterns)**, uma excelente referência sobre padrões de projeto. Recomendamos consultar o site para aprofundamento e créditos adequados.
 
-## 🤖 Geração de Exemplos
+## 🤖 Assistência utilizada
 
 Os exemplos de código foram implementados com assistência de **GitHub Copilot** para garantir o funcionamentodo código em  C++.
 
