@@ -8,7 +8,7 @@ Este repositório contém materiais educacionais baseados nos conceitos do **[Re
 
 ## 🤖 Geração de Exemplos
 
-Os exemplos de código foram implementados com assistência de **GitHub Copilot** para garantir qualidade e boas práticas de C++.
+Os exemplos de código foram implementados com assistência de **GitHub Copilot** para garantir o funcionamentodo código em  C++.
 
 ---
 
@@ -64,36 +64,6 @@ Padroes-de-Projeto/
     └── bin/
 ```
 
----
-
-## 🚀 Como Compilar e Executar
-
-### Requisitos
-- Compilador C++ com suporte a C++17 (g++, clang, MSVC)
-- Sistema operacional: Windows, Linux ou macOS
-
-### Builder Pattern
-```bash
-cd Builder-Pattern
-g++ -o bin/main.exe src/main.cpp -std=c++17
-./bin/main.exe
-```
-
-### Bridge Pattern
-```bash
-cd Bridge-Pattern
-g++ -o bin/main.exe src/main.cpp -std=c++17
-./bin/main.exe
-```
-
-### Mediator Pattern
-```bash
-cd Mediator-Pattern
-g++ -o bin/main.exe src/main.cpp -std=c++17
-./bin/main.exe
-```
-
----
 
 ## 📖 Documentação de Cada Padrão
 
@@ -119,75 +89,6 @@ Clique no padrão para ver a documentação completa:
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns) - Referência principal
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) - Gang of Four
 
-### Implementação
-- Exemplos implementados com assistência de **GitHub Copilot**
-- Linguagem: **C++ 17**
-- Compilador recomendado: GCC, Clang ou MSVC
-
----
-
-## 🎯 Objetivos Educacionais
-
-Este repositório foi criado para:
-
-✅ Demonstrar padrões de projeto em contexto prático  
-✅ Fornecer exemplos limpos e compreensíveis em C++  
-✅ Facilitar o aprendizado de engenharia de software  
-✅ Servir como referência para implementações futuras  
-
----
-
-## 💻 Exemplos de Saída
-
-### Builder Pattern - Construção de Computadores
-```
---- Computador Gamer ---
-=== Especificações do Computador ===
-CPU: Intel i9-13900K
-RAM: 32GB DDR5
-Armazenamento: 2TB SSD NVMe
-GPU: RTX 4090
-```
-
-### Bridge Pattern - Desenho em Dispositivos
-```
-Desenhando Círculo no
-  Dispositivo: Monitor LED
-  [Monitor] Pixel desenhado em (50, 50) com cor azul
-```
-
-### Mediator Pattern - Chat entre Usuários
-```
-[Alice] enviando: "Oi pessoal!"
-  [Sala Tecnologia] Mediador transmitindo para todos os usuários...
-[Bob] recebeu de Alice: "Oi pessoal!"
-[Carlos] recebeu de Alice: "Oi pessoal!"
-```
-
----
-
 ## 📝 Licença
 
 Este projeto é de código aberto e pode ser utilizado para fins educacionais.
-
----
-
-## 🤝 Contribuições
-
-Sugestões de melhorias são bem-vindas! Sinta-se livre para:
-- Abrir Issues com sugestões
-- Fazer Pull Requests com melhorias
-- Reportar erros ou bugs
-
----
-
-## ✨ Agradecimentos
-
-- **Refactoring Guru** - Pela excelente documentação sobre padrões
-- **GitHub Copilot** - Pela assistência na implementação
-- **Comunidade C++** - Pelos padrões e melhores práticas
-
----
-
-**Última atualização**: Novembro 2025  
-**Status**: ✅ Completo e funcional
